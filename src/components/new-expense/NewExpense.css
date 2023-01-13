@@ -1,0 +1,12 @@
+.main-container{
+    margin: auto 0;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    background-color: #AD9BE9;
+    width: 900px;
+    border-radius: 10px;
+    padding: 30px;
+}

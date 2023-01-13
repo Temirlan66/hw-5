@@ -1,0 +1,15 @@
+
+.mainForm {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.btn-div {
+    margin-right: -1rem;
+    margin-top: 2rem;
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}

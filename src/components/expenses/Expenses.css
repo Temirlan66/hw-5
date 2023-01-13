@@ -1,0 +1,18 @@
+.main-container{
+    margin: auto 0;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.ul_ka {
+    padding: 20px;
+    border-radius: 15px;
+    background-color: black;
+    width: 900px;
+    height: max-content;
+    
+    color: rgb(242, 242, 242);
+}
+
+
